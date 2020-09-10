@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572208032 source:c:\users\matheus henrique\desktop\c\grafico\main.cpp
+	<stdio.h>
+	<SDL.h>
+	"SDL_opengl.h"
+
